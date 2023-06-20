@@ -24,7 +24,7 @@ The lectures will take place in XXX (XXX building) and the computer exercises wi
 
 
 &nbsp;
-##### <span style="color:crimson">**Saturday 17.8. at 10:00 – 16:00: Daytrip to Koli national park**</span>
+##### <span style="color:crimson">**Saturday 13.8. at 10:00 – 16:00: Activity-XYZ**</span>
 More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
 &nbsp;
 
