@@ -30,10 +30,12 @@ The course is intended as a brief introduction to machine learning techniques an
 **Level:** Doctoral, Master, Bachelor <br />
 **Course materials:** [https://digicampus.fi/course/view.php?id=255](https://digicampus.fi/course/view.php?id=255) <br />
 **ML exercises with (most of the) answers:** <br />
-[Audio processing and steganography](https://colab.research.google.com/drive/1pkeMzy6g29pHtFmG1yltpOavGVdY0B60) <br />
-[MFCCs and GMMs](https://colab.research.google.com/drive/1rhNN21bKNnfvaheJiB3hyIvyXrSI0nkR) [Editing was allowed at some point --> mess --> now fixed!] <br />
-[Deep learning with PyTorch](https://colab.research.google.com/drive/177HW1WAbCEXt1JIyJavTPqvoc2hrCnwN) [An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/~vvestman/celebrity-demo/)] <br />
-[Deep learning with TensorFlow](https://colab.research.google.com/drive/1UKvLW8NyaGVNjlgyWbSAZL_d119fJGc3)
+[Audio processing](xyz) <br />
+[MFCCs and GMMs](xyz) [Editing was allowed at some point --> mess --> now fixed!] <br />
+[Deep learning with PyTorch](xyz) <br /> 
+[An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/~vvestman/celebrity-demo/)] <br />
+[Whisper Multi-task Speech and Speaker Recognition:](xyz) <br />
+[Deep learning with TensorFlow](xyz)
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
