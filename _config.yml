@@ -1,0 +1,13 @@
+title: Machine Learning Applied for Speech
+subtitle: UEF Summer School 2019
+url: "https://vvestman.github.io"
+subtitle_url: "http://www.uef.fi/en/web/summerschool/machine-learning-for-speech"
+baseurl: "/summerschool19"
+
+markdown: kramdown
+
+google_analytics: UA-119760540-1
+
+sass:
+    style: compressed
+    sass_dir: _sass
