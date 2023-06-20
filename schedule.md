@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Schedule | UEF Summer School 2019
+title: Schedule | UEF Summer School 2023
 ---
 
-The lectures will take place in AU100 (Aurora building) and the computer exercises will be held in MP102 or MP103 (Metria building) [[View map](photos/map.png)]. The classroom for Friday afternoon is AU111.
+The lectures will take place in XXX (XXX building) and the computer exercises will be held in XXX or XXX (Metria building) [[View map](photos/uef_map.png)]. The classroom for Friday afternoon is XXX.
 
-|                   | MON 19.8                                          | TUE 20.8                                                | WED 21.8                                          | THU 22.8                                          | FRI 23.8                                          |
+|                   | MON 14.8                                          | TUE 15.8                                                | WED 16.8                                          | THU 17.8                                          | FRI 18.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 | **9:00 - 9:45**   |                                                   | Tomi Kinnunen: Machine learning basics                       | Ville Hautamäki: Neural networks                        | <span style="color:green">**Computer exercises**</span> | Einar Meister: Speech variability                 |
 | **9:50 - 10:35**  | Tomi Kinnunen: Course introduction                     | Tomi Kinnunen: Machine learning basics                       | Ville Hautamäki: Neural networks                        | <span style="color:green">**Computer exercises**</span> | Einar Meister: Speech variability                 |
