@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Photos | UEF Summer School 2019
+title: Photos | UEF Summer School 2023
 ---
 
 ![Group photo](photos/group_photo.jpg)
