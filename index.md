@@ -3,10 +3,6 @@ layout: default
 title: UEF Summer School 2023
 ---
 
-<!--**Feedback form:** [https://docs.google.com/forms/d/e/1FAIpQLSfJb1WL-Rcv17VEJPCW8U0gYI_VMf8nkEb-0phh_PQHH5l1ig/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfJb1WL-Rcv17VEJPCW8U0gYI_VMf8nkEb-0phh_PQHH5l1ig/viewform)-->
-
-## [Feedback form](https://forms.gle/cHFFX7T1keiJrNu99)
-
 ## Course Overview
 The University of Eastern Finland (UEF) hosts a number of different summer
 courses in August 2023. The course *Machine Learning for Speech* is organized by the School
