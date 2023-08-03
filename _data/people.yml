@@ -4,7 +4,12 @@ lecturers:
   topic: "Speech"
   photo: "img/tomi.jpg"
   site: "http://cs.joensuu.fi/pages/tkinnu/webpage/"
-- name: "Associate Prof. Ville Hautamäki"
+- name: "Professor Einar Meister"
+  organization: "Tallinn University of Technology"
+  topic: "Phonetics and Speech"
+  photo: "img/einar.jpg"
+  site: "https://scholar.google.com/citations?user=Q2S0uG8AAAAJ&hl=en"  
+- name: "Associate Professor Ville Hautamäki"
   organization: "UEF"
   topic: "Autonomous Agents"
   photo: "img/ville.jpg"
@@ -14,6 +19,11 @@ lecturers:
   topic: "Speech"
   photo: "img/rosa.jpg"
   site: "http://cs.uef.fi/~rgonza/"
+- name: "Dr. Hye-jin Shim"
+  organization: "UEF"
+  topic: "Speech"
+  photo: "img/hyejin.jpg"
+  site: "https://scholar.google.co.kr/citations?user=MSIvlNoAAAAJ&hl=ko"
   
 
 teaching_assistants:
