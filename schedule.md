@@ -22,7 +22,7 @@ The lectures will take place in XX (XX building) and the computer exercises will
 | **17:00 - **        | <span style="color:crimson">**Sauna evening**</span>          |                                                         | <span style="color:crimson">**Karelian pie workshop with Joensuun Martat + handicrafts workshop with Taito Pohjois-Karjala**</span>                                                                        |                                                   |                                                   |
 
 &nbsp;
-/*##### <span style="color:crimson">**Saturday 13.8. at 10:00 – 16:00: Activity-XYZ**</span>*/
+[##### <span style="color:crimson">**Saturday 13.8. at 10:00 – 16:00: Activity-XYZ**</span>]
 More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
 &nbsp;
 
