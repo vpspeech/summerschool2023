@@ -1,10 +1,10 @@
 lecturers:
-- name: "Associate Prof. Tomi Kinnunen"
+- name: "Professor Tomi Kinnunen"
   organization: "UEF"
   topic: "Speech"
   photo: "img/tomi.jpg"
   site: "http://cs.joensuu.fi/pages/tkinnu/webpage/"
-- name: "Dr. Ville Hautamäki"
+- name: "Associate Prof. Ville Hautamäki"
   organization: "UEF"
   topic: "Autonomous Agents"
   photo: "img/ville.jpg"
