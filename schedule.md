@@ -3,7 +3,7 @@ layout: default
 title: Schedule | UEF Summer School 2023
 ---
 
-The lectures will take place in XX (XX building) and the computer exercises will be held in XX or XX (Metria building) [[View map](photos/uef_map.png)]. The classroom for Friday afternoon is XYZ.
+All teaching activities will take place at AU100 (Aurora building) [[View map](photos/uef_map.png)].
 
 |                   | MON 14.8                                          | TUE 15.8                                                | WED 16.8                                          | THU 17.8                                          | FRI 18.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
