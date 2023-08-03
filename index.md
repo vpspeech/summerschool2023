@@ -33,7 +33,7 @@ The course is intended as a brief introduction to machine learning techniques an
 [Audio processing](xyz) <br />
 [MFCCs and GMMs](xyz) [Editing was allowed at some point --> mess --> now fixed!] <br />
 [Deep learning with PyTorch](xyz) <br /> 
-An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/~vvestman/celebrity-demo/) <br />
+An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/speechlab) <br />
 [Whisper Multi-task Speech and Speaker Recognition](xyz) <br />
 [Deep learning with TensorFlow](xyz)
 
