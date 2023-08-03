@@ -23,7 +23,7 @@ Filled learning diary can be returned in Digicampus site ([https://digicampus.fi
 To obtain 3 ECTS from the course, participants are required to submit a filled
 learning diary that contains answers to different questions related to the course lectures.
 
-**Learning diary questions (updated periodically):** [https://docs.google.com/document/d/e/2PACX-1vRpMPBc-c_6iSe6zVTSRIauaU2NC6zQM0wwfVBi-p2gx-CSpkxcBxchmPBXTL0L4lC1jmOZJit0kcsh/pub](https://docs.google.com/document/d/e/2PACX-1vRpMPBc-c_6iSe6zVTSRIauaU2NC6zQM0wwfVBi-p2gx-CSpkxcBxchmPBXTL0L4lC1jmOZJit0kcsh/pub)
+**Learning diary questions (updated periodically):** [https://docs.google.com/document/d/12vkl9zdyhWS4oCNbZhi_1pV6TCAv-H7_R-O6YTLjKto/edit?usp=sharing)
 
 
 ## Project work (done after the course)
