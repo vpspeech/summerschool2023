@@ -26,14 +26,6 @@ The course is intended as a brief introduction to machine learning techniques an
 **Level:** Doctoral, Master, Bachelor <br />
 **Course materials:** [https://digicampus.fi/course/view.php?id=4443]( https://digicampus.fi/course/view.php?id=4443) <br />
 
-<! -- **ML exercises with (most of the) answers:** <br />
-[Audio processing](xyz) <br />
-[MFCCs and GMMs](xyz) [Editing was allowed at some point --> mess --> now fixed!] <br />
-[Deep learning with PyTorch](xyz) <br /> 
-An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/speechlab) <br />
-[Whisper Multi-task Speech and Speaker Recognition](xyz) <br />
-[Deep learning with TensorFlow](xyz) -->
-
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
 **Program codes:** [https://github.com/trungnt13/uef-summerschool2018](https://github.com/trungnt13/uef-summerschool2018)  <br />-->
