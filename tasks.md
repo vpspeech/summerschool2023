@@ -13,7 +13,6 @@ Following (optional) pre-course learning tasks will help you to understand compu
     - [https://www.learnpython.org/](https://www.learnpython.org/)
 - If you are new to NumPy, consider learning the basics:
     - [https://www.learnpython.org/](https://www.learnpython.org/) [See Numpy Arrays under Data Science tutorials]
-    - [https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) [See Section 2]
 
 
 ## Learning diary
