@@ -19,19 +19,20 @@ The course is intended as a brief introduction to machine learning techniques an
 
 ## General Course Information
 
-**Venue:** Joensuu campus(Venue AU100 (Aurora building) [[View map](photos/uef_map.png)])<br />
+**Venue:** Joensuu campus(Venue AU100 (Aurora building) <br />
 **Dates:** 14-18 August 2023 <br />
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master, Bachelor <br />
-**Course materials:** [https://digicampus.fi/course/view.php?id=255](https://digicampus.fi/course/view.php?id=255) <br />
-**ML exercises with (most of the) answers:** <br />
+**Course materials:** [https://digicampus.fi/course/view.php?id=4443]( https://digicampus.fi/course/view.php?id=4443) <br />
+
+<! -- **ML exercises with (most of the) answers:** <br />
 [Audio processing](xyz) <br />
 [MFCCs and GMMs](xyz) [Editing was allowed at some point --> mess --> now fixed!] <br />
 [Deep learning with PyTorch](xyz) <br /> 
 An example application utilizing similar technology with VoxCeleb dataset: [Who Do I Sound Like?](https://cs.uef.fi/speechlab) <br />
 [Whisper Multi-task Speech and Speaker Recognition](xyz) <br />
-[Deep learning with TensorFlow](xyz)
+[Deep learning with TensorFlow](xyz) -->
 
 <!--**Registration:** [http://www.uef.fi/en/web/summerschool/how-to-apply](http://www.uef.fi/en/web/summerschool/how-to-apply)-->
 <!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
@@ -39,7 +40,7 @@ An example application utilizing similar technology with VoxCeleb dataset: [Who 
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 
-**A.** Lectures + learning diary (August 14 - 18), total 3 ECTS <br />
+**A.** Lectures + Quizzes + Practicals + Learning Diary (August 14 - 18), total 3 ECTS <br />
 **B.** The A. part + individual project (Completed after the cource), total 5 ECTS <br />
 
 The course contains 5 days of lectures, hands on practicals, project
