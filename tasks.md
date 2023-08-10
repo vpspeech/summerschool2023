@@ -18,7 +18,7 @@ Following (optional) pre-course learning tasks will help you to understand compu
 
 ## Learning diary
 Returnables: Filled learning diary (Deadline August 30) <br>
-Filled learning diary can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=255](https://digicampus.fi/course/view.php?id=255)).
+Filled learning diary can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=4443](https://digicampus.fi/course/view.php?id=4443)).
 
 To obtain 3 ECTS from the course, participants are required to submit a filled
 learning diary that contains answers to different questions related to the course lectures.
