@@ -29,7 +29,7 @@ learning diary that contains answers to different questions related to the cours
 ## Project work (done after the course)
 Topics: [https://docs.google.com/document/d/1ko10aCgW0cohATNtsHnv8cwjAZUdJXpFO-BSMmZYn0Y/edit?usp=sharing](https://docs.google.com/document/d/1ko10aCgW0cohATNtsHnv8cwjAZUdJXpFO-BSMmZYn0Y/edit?usp=sharing) <br>
 Returnables: Final report and source code (Deadline September 6) <br>
-Report and source code can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=255](https://digicampus.fi/course/view.php?id=255)).
+Report and source code can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=4443](https://digicampus.fi/course/view.php?id=4443)).
 
 By returning an individual project work of sufficient quality, you will get additional 2 ECTS (in total 5 ECTS).
 
