@@ -15,23 +15,6 @@ Following (optional) pre-course learning tasks will help you to understand compu
     - [https://www.learnpython.org/](https://www.learnpython.org/) [See Numpy Arrays under Data Science tutorials]
 
 
-## Learning diary
-Returnables: Filled learning diary (Deadline August 30) <br>
-Filled learning diary can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=4443](https://digicampus.fi/course/view.php?id=4443)).
-
-To obtain 3 ECTS from the course, participants are required to submit a filled
-learning diary that contains answers to different questions related to the course lectures.
-
-**Learning diary questions (updated periodically):** [https://docs.google.com/document/d/12vkl9zdyhWS4oCNbZhi_1pV6TCAv-H7_R-O6YTLjKto/edit?usp=sharing)
-
-
-## Project work (done after the course)
-Topics: [https://docs.google.com/document/d/1ko10aCgW0cohATNtsHnv8cwjAZUdJXpFO-BSMmZYn0Y/edit?usp=sharing](https://docs.google.com/document/d/1ko10aCgW0cohATNtsHnv8cwjAZUdJXpFO-BSMmZYn0Y/edit?usp=sharing) <br>
-Returnables: Final report and source code (Deadline September 6) <br>
-Report and source code can be returned in Digicampus site ([https://digicampus.fi/course/view.php?id=4443](https://digicampus.fi/course/view.php?id=4443)).
-
-By returning an individual project work of sufficient quality, you will get additional 2 ECTS (in total 5 ECTS).
-
 <!--
 #### Challenge 1: Train an agent that plays Toribash
 - Toribash is a 1v1 fighting game.
