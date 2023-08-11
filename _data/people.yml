@@ -1,4 +1,4 @@
-lecturers:
+Teachers:
 - name: "Tomi Kinnunen"
   organization: "UEF"
   topic: "Speech"
@@ -14,19 +14,26 @@ lecturers:
   topic: "Autonomous Agents"
   photo: "img/ville.jpg"
   site: "http://cs.joensuu.fi/~villeh/"
+- name: "Lauri Tavi"
+  organization: "National Bureau of Investigation"
+  topic: "Speech"
+  photo: "img/nope.png"
+  site: "https://poliisi.fi/en/national-bureau-of-investigation"   
 - name: "Rosa Gonzalez Hautamäki"
   organization: "UEF"
   topic: "Speech"
   photo: "img/rosa.jpg"
   site: "http://cs.uef.fi/~rgonza/"
+- name: "Satu Hopponen"
+  organization: "UEF"
+  topic: "Speech"
+  photo: "img/nope.png"
+  site: "https://uefconnect.uef.fi/en/person/satu.hopponen/"  
 - name: "Hye-jin Shim"
   organization: "UEF"
   topic: "Speech"
   photo: "img/hyejin.jpg"
   site: "https://scholar.google.co.kr/citations?user=MSIvlNoAAAAJ&hl=ko"
-  
-
-teaching_assistants:
 - name: "Vishwanath Pratap Singh"
   organization: "UEF"
   photo: "img/vishwanath.jpg"
