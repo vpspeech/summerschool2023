@@ -20,6 +20,6 @@ All teaching activities will take place at AU100 (Aurora building).
 
 &nbsp;
 
-More info on social programs: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
+More info on social program: [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu)
 &nbsp;
 
